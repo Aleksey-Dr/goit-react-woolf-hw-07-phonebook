@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-woolf-hw-06-phonebook",
+  "name": "goit-react-woolf-hw-07-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Aleksey-Dr.github.io/goit-react-woolf-hw-06-phonebook/",
+  "homepage": "https://Aleksey-Dr.github.io/goit-react-woolf-hw-07-phonebook/",
   "dependencies": {
     "@redux-devtools/extension": "^3.3.0",
     "@reduxjs/toolkit": "^2.2.1",
